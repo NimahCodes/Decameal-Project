@@ -1,0 +1,15 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=decameal
+POSTGRES_USER=folMQQmupHTIToXLXkSTUNpPgbtKierK
+POSTGRES_PASSWORD=sjVShMXZOxZLrm3r7MolXT7ihuohk8TpXV97aoQrpwP35k7dX7ky074dV96F7xL2
+DATABASE_URL=postgres://folMQQmupHTIToXLXkSTUNpPgbtKierK:sjVShMXZOxZLrm3r7MolXT7ihuohk8TpXV97aoQrpwP35k7dX7ky074dV96F7xL2@postgres:5432/decameal
+EMAIL_HOST_USER=codepreneur414@gmail.com
+EMAIL_HOST_PASSWORD=chcvkguyprdnfnwy
+CLOUD_NAME=decameal
+API_KEY=426286314317482
+API_SECRET=jguIYuaC7PNcwqrF5NsaoiF81z0
+CLOUD_MEAL_FOLDER=MealThumbnails
+CLOUD_AVATAR_FOLDER=DecaMealAvatar

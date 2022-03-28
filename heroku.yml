@@ -1,0 +1,14 @@
+build:
+  docker:
+    web:
+      dockerfile: Dockerfile
+
+release:
+  image: web
+  command:
+    - python3 manage.py migrate
+    - python3 manage.py collectstatic --noinput
+
+
+run:
+  web: gunicorn config.wsgi:application
